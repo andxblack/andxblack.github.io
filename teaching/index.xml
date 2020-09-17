@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Andrew Black</title>
+    <link>andxblack.github.io/teaching/</link>
+    <description>Recent content in Teaching on Andrew Black</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 06 Jan 2018 18:12:41 +1030</lastBuildDate>
+    
+	<atom:link href="andxblack.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

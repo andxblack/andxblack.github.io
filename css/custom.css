@@ -1,0 +1,36 @@
+/* Custom CSS */
+.pub-list{
+    list-style: decimal;
+}
+
+.main-menu li{
+	margin-right: 1em;
+}
+
+ol.pub-list {
+	padding-left: 2em;
+	margin-left: 0em;
+}
+
+li.item {
+	margin-bottom: 1em;
+}
+
+.pub-list a {
+	/*color: black;*/
+	border-bottom: .125em dashed #bdbdbd
+}
+
+div.header-info {
+	margin-top: 0.5em;
+}
+
+.sep-after:after {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.sep-before:before {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
