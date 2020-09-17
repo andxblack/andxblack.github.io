@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Andrew Black</title>
-    <link>andxblack.github.io/authors/</link>
+    <link>https://andxblack.github.io/authors/</link>
     <description>Recent content in Authors on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="andxblack.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://andxblack.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
