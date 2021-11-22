@@ -5,10 +5,19 @@
     <link>https://andxblack.github.io/</link>
     <description>Recent content in Home on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 01 Jan 1970 10:03:40 +0930</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 1970 10:03:41 +0930</lastBuildDate>
     
 	<atom:link href="https://andxblack.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inference of population-level disease transmissibility from household-structured symptom onset data</title>
+      <link>https://andxblack.github.io/publications/2021ballard/</link>
+      <pubDate>Thu, 01 Jan 1970 10:03:41 +0930</pubDate>
+      
+      <guid>https://andxblack.github.io/publications/2021ballard/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Assessing the risk of spread of COVID-19 to the Asia Pacific region</title>
