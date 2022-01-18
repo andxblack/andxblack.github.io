@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paper on Andrew Black</title>
+    <link>https://andxblack.github.io/tags/paper/</link>
+    <description>Recent content in paper on Andrew Black</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andxblack.github.io/tags/paper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New paper published: Ecological scaffolding and the evolution of individuality</title>
+      <link>https://andxblack.github.io/blog/eco_evo_paper/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/blog/eco_evo_paper/</guid>
+      <description>Our paper on Ecological scaffolding and the evolution of individuality has been published online in Nature Ecology and Evolution. There is an accompanying news and views article as well as an interactive visualisation of the first model using Observable.js.</description>
+    </item>
+    
+  </channel>
+</rss>

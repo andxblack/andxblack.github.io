@@ -5,10 +5,56 @@
     <link>https://andxblack.github.io/</link>
     <description>Recent content in Home on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 01 Jan 1970 10:03:41 +0930</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andxblack.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advanced Stochastic Modelling and Monte Carlo methods</title>
+      <link>https://andxblack.github.io/blog/topica_2021/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/blog/topica_2021/</guid>
+      <description>In Semester 1 this year, I will again be teaching an honours course which I have roughly titled: Advanced Stochastic Modelling and Monte Carlo methods. For those of you considering it, this post gives an outline of the topics I intend to cover this year. Due to the restrictions on in-person teaching and workload constraints, all honours courses will be run as reading courses. This means there will be no lectures and instead a single weekly workshop.</description>
+    </item>
+    
+    <item>
+      <title>Doherty coronavirus modelling work</title>
+      <link>https://andxblack.github.io/blog/corona1/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/blog/corona1/</guid>
+      <description>Two pieces of work I have contributed to on the Australian response to COVID-19 have been published on the Doherty Institute website.
+Update:</description>
+    </item>
+    
+    <item>
+      <title>The Conversation: How to flatten the curve of coronavirus, a mathematician explains</title>
+      <link>https://andxblack.github.io/blog/convo/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/blog/convo/</guid>
+      <description>An article in the Conversation by myself, Dennis Liu and Lewis Mitchell. How to flatten the curve of coronavirus, a mathematician explains.</description>
+    </item>
+    
+    <item>
+      <title>New paper published: Ecological scaffolding and the evolution of individuality</title>
+      <link>https://andxblack.github.io/blog/eco_evo_paper/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/blog/eco_evo_paper/</guid>
+      <description>Our paper on Ecological scaffolding and the evolution of individuality has been published online in Nature Ecology and Evolution. There is an accompanying news and views article as well as an interactive visualisation of the first model using Observable.js.</description>
+    </item>
+    
+    <item>
+      <title>Pursuit: What maths can tell us about the spread of the new coronavirus</title>
+      <link>https://andxblack.github.io/blog/pursuit/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/blog/pursuit/</guid>
+      <description>We have a short piece out in Pursuit about the coronavirus. What maths can tell us about the spread of the new coronavirus.</description>
+    </item>
     
     <item>
       <title>Inference of population-level disease transmissibility from household-structured symptom onset data</title>
