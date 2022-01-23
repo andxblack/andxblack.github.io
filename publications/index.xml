@@ -5,11 +5,7 @@
     <link>https://andxblack.github.io/publications/</link>
     <description>Recent content in Publications on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Jan 2018 20:57:38 +1030</lastBuildDate>
-    
-	<atom:link href="https://andxblack.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 04 Jan 2018 20:57:38 +1030</lastBuildDate><atom:link href="https://andxblack.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inference of population-level disease transmissibility from household-structured symptom onset data</title>
       <link>https://andxblack.github.io/publications/2021ballard/</link>

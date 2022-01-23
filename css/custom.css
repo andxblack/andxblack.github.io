@@ -34,3 +34,7 @@ div.header-info {
 	margin-top: 2em;
 	margin-bottom: 2em;
 }
+
+.menu li.current>a {
+    pointer-events: auto;
+}

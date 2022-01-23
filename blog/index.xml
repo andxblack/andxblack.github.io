@@ -5,18 +5,24 @@
     <link>https://andxblack.github.io/blog/</link>
     <description>Recent content in Blog / News on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://andxblack.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What programming language should I learn first (as a maths student)?</title>
+      <link>https://andxblack.github.io/blog/programming_languages/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/blog/programming_languages/</guid>
+      <description>This post summarises my answer to a common question I get from mathematics students.
+I&amp;rsquo;m not dogmatic about this; I recommend either R, Julia or Python depending on your project and specialisation. If you’re doing statistics, R is a no-brainer. For machine-learning heavy work, Python is still the standard. For more general numerical computing and simulation, for example Monte Carlo and MCMC (most of what I research day to day) I recommend Julia now because these things need to be fast.</description>
+    </item>
     
     <item>
-      <title>Advanced Stochastic Modelling and Monte Carlo methods</title>
+      <title>Advanced Stochastic Modelling and Monte Carlo Methods</title>
       <link>https://andxblack.github.io/blog/topica_2021/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://andxblack.github.io/blog/topica_2021/</guid>
-      <description>In Semester 1 this year, I will again be teaching an honours course which I have roughly titled: Advanced Stochastic Modelling and Monte Carlo methods. For those of you considering it, this post gives an outline of the topics I intend to cover this year. Due to the restrictions on in-person teaching and workload constraints, all honours courses will be run as reading courses. This means there will be no lectures and instead a single weekly workshop.</description>
+      <description>In Semester 1 this year, I will again be teaching an honours course which I have roughly titled: Advanced Stochastic Modelling and Monte Carlo Methods. For those of you considering it, this post gives an outline of the topics I intend to cover this year. Due to the restrictions on in-person teaching and workload constraints, all honours courses will be run as reading courses this year. This means there will be no lectures and instead a single weekly workshop.</description>
     </item>
     
     <item>
@@ -54,6 +60,33 @@ Update: The first piece of work on the scenario modelling has now been published
       
       <guid>https://andxblack.github.io/blog/pursuit/</guid>
       <description>We have a short piece out in Pursuit about the coronavirus. What maths can tell us about the spread of the new coronavirus.</description>
+    </item>
+    
+    <item>
+      <title>Annual Meeting of the Australian Mathematical Society</title>
+      <link>https://andxblack.github.io/blog/aust_ms/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/blog/aust_ms/</guid>
+      <description>Another poster I have created for AustMS this year using Processing.</description>
+    </item>
+    
+    <item>
+      <title>Applied Probability at the Rock</title>
+      <link>https://andxblack.github.io/blog/rock_conference/</link>
+      <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/blog/rock_conference/</guid>
+      <description>I created the poster for the upcoming Applied Probability conference being held for Phil Pollett&amp;rsquo;s 60&amp;rsquo;th birthday. Inspired by some of Anders Hoff&amp;rsquo;s work, I tried to capture the layer structure of Uluru using a line tracing algorithm written in Processing, which uses Java behind the scenes. Roughly, it starts with a straight line and then tries to copy this, but with some noise added. After many iterations larger scale patterns start to emerge.</description>
+    </item>
+    
+    <item>
+      <title>Australia New Zealand Applied Probability Workshop 2015</title>
+      <link>https://andxblack.github.io/blog/barossa/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/blog/barossa/</guid>
+      <description>I am a co-organiser of the Australia New Zealand Applied Probability Workshop to be held in the Barossa this April.</description>
     </item>
     
   </channel>

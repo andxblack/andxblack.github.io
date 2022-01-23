@@ -1,201 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://andxblack.github.io/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://andxblack.github.io/blog/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://andxblack.github.io/research/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/</loc>
     <lastmod>2018-01-04T20:57:38+10:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/teaching/</loc>
-    <lastmod>2018-01-06T18:12:41+10:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andxblack.github.io/tags/blog/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andxblack.github.io/tags/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andxblack.github.io/blog/programming_languages/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://andxblack.github.io/blog/topica_2021/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andxblack.github.io/tags/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/tags/teaching/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/blog/corona1/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/tags/news/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/blog/convo/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/blog/eco_evo_paper/</loc>
     <lastmod>2020-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/tags/paper/</loc>
     <lastmod>2020-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/blog/pursuit/</loc>
     <lastmod>2020-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://andxblack.github.io/blog/aust_ms/</loc>
+    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andxblack.github.io/tags/conference/</loc>
+    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andxblack.github.io/blog/rock_conference/</loc>
+    <lastmod>2016-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andxblack.github.io/blog/barossa/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://andxblack.github.io/publications/2021ballard/</loc>
     <lastmod>1970-01-01T10:03:41+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/2020shearer/</loc>
     <lastmod>1970-01-01T10:03:40+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/2020moss/</loc>
     <lastmod>1970-01-01T10:03:40+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black_ecoscaff/</loc>
     <lastmod>1970-01-01T10:03:40+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/alahmadi/</loc>
     <lastmod>1970-01-01T10:03:40+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black2019/</loc>
     <lastmod>1970-01-01T10:03:39+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/walker2019/</loc>
     <lastmod>1970-01-01T10:03:39+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black2018/</loc>
     <lastmod>1970-01-01T10:03:39+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/yan2018/</loc>
     <lastmod>1970-01-01T10:03:38+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black2017/</loc>
     <lastmod>1970-01-01T10:03:37+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/walker2017/</loc>
     <lastmod>1970-01-01T10:03:37+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/lydeamore2016/</loc>
     <lastmod>1970-01-01T10:03:36+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black2015/</loc>
     <lastmod>1970-01-01T10:03:35+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/ross2014/</loc>
     <lastmod>1970-01-01T10:03:34+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black2014a/</loc>
     <lastmod>1970-01-01T10:03:34+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black2013a/</loc>
     <lastmod>1970-01-01T10:03:33+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black2013b/</loc>
     <lastmod>1970-01-01T10:03:33+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black2012b/</loc>
     <lastmod>1970-01-01T10:03:32+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black2012a/</loc>
     <lastmod>1970-01-01T10:03:32+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black2011/</loc>
     <lastmod>1970-01-01T10:03:31+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black2010b/</loc>
     <lastmod>1970-01-01T10:03:30+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black2010/</loc>
     <lastmod>1970-01-01T10:03:30+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/publications/black2009/</loc>
     <lastmod>1970-01-01T10:03:29+09:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://andxblack.github.io/series/</loc>
   </url>
-  
 </urlset>
