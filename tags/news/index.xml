@@ -5,7 +5,16 @@
     <link>https://andxblack.github.io/tags/news/</link>
     <description>Recent content in news on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go8 Roadmap to Recovery</title>
+      <link>https://andxblack.github.io/blog/go8_roadmap/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/blog/go8_roadmap/</guid>
+      <description>I contributed some thoughts for the Go8 Roadmap to Recovery that was recently released. The University also has a bit of press on it here.</description>
+    </item>
+    
     <item>
       <title>Doherty coronavirus modelling work</title>
       <link>https://andxblack.github.io/blog/corona1/</link>
