@@ -41,7 +41,8 @@ I&amp;rsquo;m not dogmatic about this; I recommend either R, Julia or Python dep
       
       <guid>https://andxblack.github.io/blog/corona1/</guid>
       <description>Two pieces of work I have contributed to on the Australian response to COVID-19 have been published on the Doherty Institute website.
-Update: The first piece of work on the scenario modelling has now been published in Emerging Infectious Diseases. The risk analysis work is still undergoing a rather lengthy review, but a preprint can be found on medRXiv.</description>
+Update: The first piece of work on the scenario modelling has now been published in Emerging Infectious Diseases.
+Update 01-02-22: The risk analysis work has now been published in Epidemics</description>
     </item>
     
     <item>
@@ -99,6 +100,15 @@ Update: The first piece of work on the scenario modelling has now been published
     </item>
     
     <item>
+      <title>A household model for vector-borne diseases</title>
+      <link>https://andxblack.github.io/publications/black2022/</link>
+      <pubDate>Thu, 01 Jan 1970 10:03:42 +0930</pubDate>
+      
+      <guid>https://andxblack.github.io/publications/black2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learnings from the Australian First Few X Household Transmission Project for COVID-19</title>
       <link>https://andxblack.github.io/publications/2022marcato/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:42 +0930</pubDate>
@@ -149,15 +159,6 @@ Update: The first piece of work on the scenario modelling has now been published
       <pubDate>Thu, 01 Jan 1970 10:03:40 +0930</pubDate>
       
       <guid>https://andxblack.github.io/publications/alahmadi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A household model for vector-borne diseases</title>
-      <link>https://andxblack.github.io/publications/black2019/</link>
-      <pubDate>Thu, 01 Jan 1970 10:03:39 +0930</pubDate>
-      
-      <guid>https://andxblack.github.io/publications/black2019/</guid>
       <description></description>
     </item>
     
