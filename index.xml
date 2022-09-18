@@ -5,7 +5,25 @@
     <link>https://andxblack.github.io/</link>
     <description>Recent content in Home on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The effect of bottleneck size on evolution in nested darwinian populations</title>
+      <link>https://andxblack.github.io/publications/2022_nitschke/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/publications/2022_nitschke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learnings from the Australian First Few X Household Transmission Project for COVID-19</title>
+      <link>https://andxblack.github.io/publications/2022marcato/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/publications/2022marcato/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>What programming language should I learn first (as a maths student)?</title>
       <link>https://andxblack.github.io/blog/programming_languages/</link>
@@ -114,15 +132,6 @@ Update 01-02-22: The risk analysis work has now been published in Epidemics</des
       <pubDate>Thu, 01 Jan 1970 10:03:42 +0930</pubDate>
       
       <guid>https://andxblack.github.io/publications/2020shearer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learnings from the Australian First Few X Household Transmission Project for COVID-19</title>
-      <link>https://andxblack.github.io/publications/2022marcato/</link>
-      <pubDate>Thu, 01 Jan 1970 10:03:42 +0930</pubDate>
-      
-      <guid>https://andxblack.github.io/publications/2022marcato/</guid>
       <description></description>
     </item>
     

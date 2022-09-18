@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://andxblack.github.io/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andxblack.github.io/blog/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
@@ -15,6 +15,12 @@
   </url><url>
     <loc>https://andxblack.github.io/teaching/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andxblack.github.io/publications/2022_nitschke/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andxblack.github.io/publications/2022marcato/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andxblack.github.io/tags/blog/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
@@ -68,9 +74,6 @@
     <lastmod>1970-01-01T10:03:42+09:30</lastmod>
   </url><url>
     <loc>https://andxblack.github.io/publications/2020shearer/</loc>
-    <lastmod>1970-01-01T10:03:42+09:30</lastmod>
-  </url><url>
-    <loc>https://andxblack.github.io/publications/2022marcato/</loc>
     <lastmod>1970-01-01T10:03:42+09:30</lastmod>
   </url><url>
     <loc>https://andxblack.github.io/publications/2021ballard/</loc>
