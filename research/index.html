@@ -11,7 +11,7 @@
 <meta property='og:site_name' content='Andrew Black'>
 <meta property='og:type' content='website'><meta property='og:updated_time' content='2022-08-16T00:00:00Z'/><meta name='twitter:card' content='summary'>
 
-<meta name="generator" content="Hugo 0.81.0" />
+<meta name="generator" content="Hugo 0.92.0" />
 
   <title>Research • Andrew Black</title>
   <link rel='canonical' href='https://andxblack.github.io/research/'>
@@ -71,46 +71,24 @@
 
 <div class='entry'>
   <div class='container entry-content'>
-  <p>I am part of the <a href="https://ecms.adelaide.edu.au/research-impact/stochastic-modelling-and-operations-research">Stochastic Modelling and Operations Research Group</a> in the School of Mathematical Sciences.
-I would tend to describe my research as broadly lying at the intersection of four topics: stochastic modelling, mathematical biology, computational Bayesian statistics and Monte-Carlo methods. Below I describe some of my current interests and projects.</p>
-<!-- ## Stochastic modelling
-
-Stochatic modelling is a broad term for any type of modelling that involves random or stochastic processes. This is differentitated from statistics by the focus on mechanism. Stochastic models tend to be more mechanistic (I say more because these things tend to lie on a continuous scale), but we specify models at a lower level to describe behaviour at a higher level. This is an approach well known to phyisicists and indeed my original background was in Physics. Rather than physical systems, I apply these methods to biological problems. I have a [review article](https://) that outlines this approach for ecological stuff. Often continous-time Markov chains as they are useful for a lot of problems that happen in contiunous time, but where we want to capture the discrete nature of objects, becasue we are dealing with smaller populations.  -->
+  <p>This page gives an overview of my current research interests and areas of expertise for potential students or those looking for consulting services.</p>
+<p><strong>Students and Supervision.</strong>  I’m always happy to discuss potential PhD and MPhil projects with motivated students. The topics below are a good guide to the problems I’m working on at the moment and potential topics, but I’m open to anything as long as they fall within my general areas of interest. For a list of past and present students and their projects see my <a href="https://researchers.adelaide.edu.au/profile/andrew.black#supervision">researcher profile</a></p>
+<h3 id="overview">Overview</h3>
+<p>My research lies at the intersection of stochastic modelling, mathematical biology, computational Bayesian statistics and Monte-Carlo methods. The thing that connects all of these topics is the use of probability and stochastic processes for understanding the world and solving interesting problems. Increasingly, much of what I do comes under the banner of data science.</p>
 <h3 id="epidemic-modelling-and-inference">Epidemic modelling and inference</h3>
-<p>A large part of my research is in epidemic modelling.
-I am involved in developing new methods for inferring the likely impact of novel pathogens from data collected in the early stages of an outbreak, in particular influenza. Studies that will collect such data are often known as First Few Hundred (FF100) studies because they aim to monitor the first few hundred infected individuals and their household contacts.</p>
-<p>I am also interested in using similar methods to characterise the 1918 influenza pandemic from historical maritime data sources.</p>
-<!-- A large part of my research is developing methods to perform inference for different types of epidemic data. We're mainly concerned with discrete state models, as these are needed to properly capture the discrete nature of individuals and the full randomness in the process, and working with these has many interesting challenges. 
-In general, these are missing data problems because our observations of the state are only partial, so the likelihood is intractable. 
-In spite of this we can use a number of clever Markov chain Monte Carlo (MCMC) methods to sample from the posterior. 
-
-These methods can be split into two broad classes, which depend on how the missing data is handled. The first class, perform inference using a technique called data augmentation. This basically means that we infer the missing data as part of the MCMC routine, which then allows us to calculate the likelihood. A current PhD student is using this for inference on First Few Hundred (FF100) data. 
-
-Another class of methods integrate out the missing data when calculating the likelihood. For systems with small state-spaces, such as household models, this can be done using numerical techniques. This involves working directly with the stochastic transition matrix. 
-Another technique is to instead estimate the likelihood using a particle filter. This allows us to potentially use any model that can be simulated.
-
-Current work is developing importance sampling methods to allow for efficient simulations of complex epidemic models. We are currently applying these techniques to perform inference on historical data from the  -->
-<h3 id="computational-bayesian-statistics">Computational Bayesian statistics.</h3>
-<p>Bayesian statistics is the natural framework for tacking inference problems where we have an underlying probabilistic or mechanistic model. Computational techniques and algorithms are an important part of this area as anything apart from the simplest models are intractable in some respect&mdash;Markov chain Monte Carlo is the granddaddy of these algorithms.</p>
-<p>A particular challenge with inference for epidemic models is that that likelihood itself is often intractable. A fun part of my research has been developing new simulation methods leveraging sequential Monte Carlo, particle filters and importance sampling techniques to efficiently estimate likelihoods instead of calculating them analytically. These methods are currently powering state-of-the-art pandemic preparedness methods.</p>
-<p>I am also interested in using machine learning methods to increase the efficiency of Bayesian approaches (which are often computationally intensive) and learning optimal proposals for importance sampling algorithms. Generally I like problems at the interface of computation and probability. I am keen to talk to students with a strong background in these areas about potential HDR projects.</p>
-<h3 id="evolutionary-transitions">Evolutionary transitions</h3>
-<p>These are events that are responsible for building the nested hierarchy we see in biology today and the creation of new levels of biological organisation. The best known example of a transition is from unicellular to multicellular life, but there are many others, such as genes into chromosomes and the formation of the first cells. My favourite book on this topic is <a href="https://global.oup.com/academic/product/darwinian-populations-and-natural-selection-9780199552047?cc=au&amp;lang=en&amp;">Darwinian Populations and Natural Selection</a> by Peter Godfrey-Smith.</p>
-<p>My interest is in building mathematical models that can capture the dynamics of evolutionary transitions and to understand them from a mechanistic point of view. The challenging part of this is to understand the very earliest stages of the transition, especially how early groups of cells came to possess Darwinian characteristics needed for natural selection to act at the level of groups.
-In modelling this phenomena, the basic concepts that we normally rely on when doing evolutionary analysis, such as reproduction, now must themselves be explained, rather than being assumed in the model. This research is in collaboration with <a href="https://www.evolbio.mpg.de/person/12063/15303/">Paul Rainey</a> and <a href="http://pierrickbourrat.com">Pierrick Bourrat</a>, and the solution to the problem we advocate is called &ldquo;Ecological Scaffolding&rdquo;. This is the idea that Darwinian properties can be scaffolded by the environment, these properties are exogenously imposed and can effect evolutionary transitions.
-See our <a href="https://dx.doi.org/10.1038/s41559-019-1086-9">new paper</a> for a detailed discussion of this. This shift in perspective changes the problem from an abstract one of understanding levels of selection to a more concrete problem of  understanding the ecological conditions that can create scaffolded populations.
-Currently a PhD student is working on this topic and developing advanced stochastic models to probe these questions.</p>
-<h3 id="students-and-supervision">Students and Supervision</h3>
-<p>I&rsquo;m always happy to discuss potential MPhil and PhD projects with students. The topics above are a good indication of the topics I&rsquo;m working on at the moment and potential projects, but I&rsquo;m open to a broad range of things as long as they fall within my areas of interest.
-For a list of past and present students, and their projects, see my <a href="https://researchers.adelaide.edu.au/profile/andrew.black#supervision">researcher profile</a></p>
-<!-- - Dylan Morris, MPhil, 2019 &ndash;
-- Cody Nitschke, PhD, 2018 &ndash;
-- James Walker, PhD, Bayesian Inference and Model Selection for Partially-Observed, Continuous-Time, Stochastic Epidemic Models. 2016 &ndash; 19.
-- Jonathon Pantelis, MPhil. Household models for endemic diseases. 2015 &ndash; 17
-- Lachlan Bubb, MPhil. Modern Bayesian methods for epidemic inference with application to influenza aboard ships. 2015 &ndash; 17
-- James Walker, MPhil. Inference methods for first few hundred studies. 2014 &ndash; 15.
-- Michael Lydeamore, MPhil. Approximations of stochastic household models for comparing antiviral allocation schemes. 2013 &ndash; 15
- -->
+<p>I have particular expertise in mathematical epidemiology and stochastic  epidemic modelling. I was contracted by the Australian government to advise on these topics and provide modelling to support the initial public health interventions for the covid19 pandemic.</p>
+<p>Although recently in vogue, household models and pandemic preparedness are a long standing interests. Households are an easy unit to surveil for data, but their size require stochastic models of the transmission process. Data is still fairly sparse and corrupted by noise which makes this more challenging. Much of my interest in Bayesian computational methods has been spurred by particular problems arising from this research. My work in this area formed the basis for the analysis of data collected for the first <a href="https://dx.doi.org/10.1016/j.lanwpc.2022.100573">FFX project in Australia</a> .</p>
+<h3 id="computational-bayesian-statistics">Computational Bayesian statistics</h3>
+<p>Bayesian statistics is the natural framework for tacking inference problems for time series where we have an underlying probabilistic or mechanistic model.</p>
+<p>A particular challenge with inference for epidemic models is that that likelihood itself is often intractable. Hence developing new computational techniques and algorithms to fit these models is an active research interest.
+Most of the best techniques are currently based on sequential Monte Carlo, particle filters and <a href="https://dx.doi.org/10.1007/s11222-018-9827-1">importance sampling techniques</a>.</p>
+<p>I am also interested in using machine learning methods to increase the efficiency of Bayesian approaches (which are often computationally intensive), for example in learning optimal proposals for importance sampling algorithms. A current student is investigating the use of normalising flows and neural likelihood estimation for developing new inference methods.</p>
+<h3 id="evolution-of-multicellularity">Evolution of multicellularity</h3>
+<p>Another long term project is investigating the evolution of multicellularity from unicellular ancestors—one of the so-called <a href="https://en.wikipedia.org/wiki/The_Major_Transitions_in_Evolution">major transitions</a> in evolution. My interest is in building mathematical models that can capture the dynamics of this  transitions and to try and better understand it from a mechanistic point of view.</p>
+<p>The challenging part of this is to understand the very earliest stages of the transition, especially how early groups of cells came to possess Darwinian characteristics needed for natural selection to act at the level of groups. In modelling this phenomena, the basic concepts that we normally rely on when doing evolutionary analysis, such as defined modes of reproduction,  now must themselves be explained, rather than being assumed in the model.</p>
+<p>In collaboration with  <a href="https://www.evolbio.mpg.de/person/12063/15303/">Paul Rainey</a>  and  <a href="http://pierrickbourrat.com/">Pierrick Bourrat</a> , we have advocated  a solution to the problem called “Ecological Scaffolding”.
+This is discussed in detail in our paper <a href="https://dx.doi.org/10.1038/s41559-019-1086-9">Ecological scaffolding and the evolution of individuality</a>, but the basic idea is that  Darwinian properties can be scaffolded by the environment which causes cells to participate in the process or evolution as if they were members of multicellular collectives.</p>
+<p>The perspective of ecological scaffolding changes the problem from an abstract one of understanding levels of selection to a more concrete problem of understanding the ecological conditions that can create scaffolded populations.  For example, <a href="https://www.biorxiv.org/content/10.1101/2022.09.22.508977v1">a new preprint</a> by recent PhD student Cody Nitschke looks at how bottleneck size effects the evolutionary dynamics of nested Darwinian populations.</p>
 
 </div>
 
