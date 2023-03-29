@@ -25,11 +25,20 @@
     </item>
     
     <item>
-      <title>A stochastic household model for vector-borne diseases</title>
-      <link>https://andxblack.github.io/publications/black2022/</link>
-      <pubDate>Thu, 01 Jan 1970 10:03:42 +0930</pubDate>
+      <title>A synthetic dataset of Danish residential electricity prosumers</title>
+      <link>https://andxblack.github.io/publications/2023ray1/</link>
+      <pubDate>Thu, 01 Jan 1970 10:03:43 +0930</pubDate>
       
-      <guid>https://andxblack.github.io/publications/black2022/</guid>
+      <guid>https://andxblack.github.io/publications/2023ray1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computation of random time shift distributions for stochastic population models</title>
+      <link>https://andxblack.github.io/publications/2023morris/</link>
+      <pubDate>Thu, 01 Jan 1970 10:03:43 +0930</pubDate>
+      
+      <guid>https://andxblack.github.io/publications/2023morris/</guid>
       <description></description>
     </item>
     
@@ -39,15 +48,6 @@
       <pubDate>Thu, 01 Jan 1970 10:03:42 +0930</pubDate>
       
       <guid>https://andxblack.github.io/publications/2020shearer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inference of population-level disease transmissibility from household-structured symptom onset data</title>
-      <link>https://andxblack.github.io/publications/2021ballard/</link>
-      <pubDate>Thu, 01 Jan 1970 10:03:41 +0930</pubDate>
-      
-      <guid>https://andxblack.github.io/publications/2021ballard/</guid>
       <description></description>
     </item>
     
