@@ -5,7 +5,17 @@
     <link>https://andxblack.github.io/publications/</link>
     <description>Recent content in Publications on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 04 Jan 2018 20:57:38 +1030</lastBuildDate><atom:link href="https://andxblack.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A synthetic dataset of Danish residential electricity prosumers</title>
+      <link>https://andxblack.github.io/publications/ray_2023/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/publications/ray_2023/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>The effect of bottleneck size on evolution in nested Darwinian populations</title>
       <link>https://andxblack.github.io/publications/2022_nitschke/</link>
@@ -21,15 +31,6 @@
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://andxblack.github.io/publications/2022marcato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A synthetic dataset of Danish residential electricity prosumers</title>
-      <link>https://andxblack.github.io/publications/2023ray1/</link>
-      <pubDate>Thu, 01 Jan 1970 10:03:43 +0930</pubDate>
-      
-      <guid>https://andxblack.github.io/publications/2023ray1/</guid>
       <description></description>
     </item>
     

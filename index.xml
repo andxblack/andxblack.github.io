@@ -5,7 +5,17 @@
     <link>https://andxblack.github.io/</link>
     <description>Recent content in Home on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A synthetic dataset of Danish residential electricity prosumers</title>
+      <link>https://andxblack.github.io/publications/ray_2023/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/publications/ray_2023/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>The effect of bottleneck size on evolution in nested Darwinian populations</title>
       <link>https://andxblack.github.io/publications/2022_nitschke/</link>
@@ -115,15 +125,6 @@ Update 01-02-22: The risk analysis work has now been published in Epidemics</des
       
       <guid>https://andxblack.github.io/blog/barossa/</guid>
       <description>I am a co-organiser of the Australia New Zealand Applied Probability Workshop to be held in the Barossa this April.</description>
-    </item>
-    
-    <item>
-      <title>A synthetic dataset of Danish residential electricity prosumers</title>
-      <link>https://andxblack.github.io/publications/2023ray1/</link>
-      <pubDate>Thu, 01 Jan 1970 10:03:43 +0930</pubDate>
-      
-      <guid>https://andxblack.github.io/publications/2023ray1/</guid>
-      <description></description>
     </item>
     
     <item>
