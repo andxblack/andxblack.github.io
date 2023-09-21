@@ -6,7 +6,7 @@
     <description>Recent content in Home on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A synthetic dataset of Danish residential electricity prosumers</title>
       <link>https://andxblack.github.io/publications/ray_2023/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://andxblack.github.io/publications/ray_2023/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Australian Data Science Network Conference</title>
+      <link>https://andxblack.github.io/blog/adsn_conf/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/blog/adsn_conf/</guid>
+      <description>I am on the organising committee for the upcoming Australian Data Science Network 2023 Conference, which will be held in Adelaide, 7-8th of December.</description>
     </item>
     
     <item>
