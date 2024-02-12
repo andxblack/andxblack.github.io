@@ -6,33 +6,28 @@
     <description>Recent content in conference on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://andxblack.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Annual Meeting of the Australian Mathematical Society</title>
       <link>https://andxblack.github.io/blog/aust_ms/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/aust_ms/</guid>
       <description>Another poster I have created for AustMS this year using Processing.</description>
     </item>
-    
     <item>
       <title>Applied Probability at the Rock</title>
       <link>https://andxblack.github.io/blog/rock_conference/</link>
       <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/rock_conference/</guid>
       <description>I created the poster for the upcoming Applied Probability conference being held for Phil Pollett&amp;rsquo;s 60&amp;rsquo;th birthday. Inspired by some of Anders Hoff&amp;rsquo;s work, I tried to capture the layer structure of Uluru using a line tracing algorithm written in Processing, which uses Java behind the scenes. Roughly, it starts with a straight line and then tries to copy this, but with some noise added. After many iterations larger scale patterns start to emerge.</description>
     </item>
-    
     <item>
       <title>Australia New Zealand Applied Probability Workshop 2015</title>
       <link>https://andxblack.github.io/blog/barossa/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/barossa/</guid>
       <description>I am a co-organiser of the Australia New Zealand Applied Probability Workshop to be held in the Barossa this April.</description>
     </item>
-    
   </channel>
 </rss>

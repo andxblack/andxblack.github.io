@@ -6,240 +6,196 @@
     <description>Recent content in Publications on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jan 2018 20:57:38 +1030</lastBuildDate><atom:link href="https://andxblack.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://andxblack.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A synthetic dataset of Danish residential electricity prosumers</title>
       <link>https://andxblack.github.io/publications/ray_2023/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/publications/ray_2023/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The effect of bottleneck size on evolution in nested Darwinian populations</title>
       <link>https://andxblack.github.io/publications/2022_nitschke/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2022_nitschke/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Learnings from the Australian First Few X Household Transmission Project for COVID-19</title>
       <link>https://andxblack.github.io/publications/2022marcato/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2022marcato/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Individuality through ecology: Rethinking the evolution of complex life from an externalist perspective</title>
+      <link>https://andxblack.github.io/publications/2023bourrat/</link>
+      <pubDate>Thu, 01 Jan 1970 10:03:45 +0930</pubDate>
+      <guid>https://andxblack.github.io/publications/2023bourrat/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Neural Likelihood Approximation for Integer Valued Time Series Data</title>
       <link>https://andxblack.github.io/publications/2023oloughlin/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:44 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2023oloughlin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Computation of random time-shift distributions for stochastic population models</title>
       <link>https://andxblack.github.io/publications/2023morris/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:43 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2023morris/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Rapid assessment of the risk of SARS-CoV-2 importation: Case study and lessons learned</title>
       <link>https://andxblack.github.io/publications/2020shearer/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:42 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2020shearer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Coronavirus Disease Model to Inform Transmission Reducing Measures and Health System Preparedness, Australia</title>
       <link>https://andxblack.github.io/publications/2020moss/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:40 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2020moss/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ecological scaffolding and the evolution of individuality</title>
       <link>https://andxblack.github.io/publications/black_ecoscaff/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:40 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black_ecoscaff/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Influencing public health policy with data-informed mathematical models of infectious diseases: Recent developments and new challenges</title>
       <link>https://andxblack.github.io/publications/alahmadi/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:40 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/alahmadi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bayesian model discrimination for partially-observed epidemic models</title>
       <link>https://andxblack.github.io/publications/walker2019/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:39 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/walker2019/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Importance sampling for partially observed temporal epidemic models</title>
       <link>https://andxblack.github.io/publications/black2018/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:39 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2018/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The distribution of the time taken for an epidemic to spread between two communities</title>
       <link>https://andxblack.github.io/publications/yan2018/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:38 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/yan2018/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Characterising Pandemic Severity and Transmissibility from Data Collected during First Few Hundred Studies</title>
       <link>https://andxblack.github.io/publications/black2017/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:37 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2017/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Inference of epidemiological parameters from household stratified data</title>
       <link>https://andxblack.github.io/publications/walker2017/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:37 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/walker2017/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Choice of antiviral allocation scheme for pandemic influenza depends on strain transmissibility, delivery delay and stockpile size</title>
       <link>https://andxblack.github.io/publications/lydeamore2016/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:36 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/lydeamore2016/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Computation of epidemic final size distributions</title>
       <link>https://andxblack.github.io/publications/black2015/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:35 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2015/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Contact tracing and antiviral prophylaxis in the early stages of a pandemic: The probability of a major outbreak</title>
       <link>https://andxblack.github.io/publications/ross2014/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:34 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/ross2014/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The effect of clumped population structure on the variability of spreading dynamics</title>
       <link>https://andxblack.github.io/publications/black2014a/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:34 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2014a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Epidemiological consequences of household-based antiviral prophylaxis for pandemic influenza</title>
       <link>https://andxblack.github.io/publications/black2013a/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:33 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2013a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Estimating a Markovian epidemic model using household serial interval data from the early stages of an epidemic</title>
       <link>https://andxblack.github.io/publications/black2013b/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:33 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2013b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mixing times in evolutionary game dynamics</title>
       <link>https://andxblack.github.io/publications/black2012b/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:32 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2012b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stochastic formulation of ecological models and their applications</title>
       <link>https://andxblack.github.io/publications/black2012a/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:32 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2012a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>WKB calculation of an epidemic outbreak distribution</title>
       <link>https://andxblack.github.io/publications/black2011/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:31 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2011/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stochastic amplification in an epidemic model with seasonal forcing</title>
       <link>https://andxblack.github.io/publications/black2010b/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:30 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2010b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stochasticity in staged models of epidemics: quantifying the dynamics of whooping cough</title>
       <link>https://andxblack.github.io/publications/black2010/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:30 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2010/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stochastic fluctuations in the susceptible-infected-recovered model with distributed infectious periods</title>
       <link>https://andxblack.github.io/publications/black2009/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:29 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2009/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
