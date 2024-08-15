@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://andxblack.github.io/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andxblack.github.io/blog/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
@@ -21,6 +21,9 @@
   </url><url>
     <loc>https://andxblack.github.io/publications/ray_2023/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andxblack.github.io/publications/2023morris/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andxblack.github.io/blog/adsn_conf/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
@@ -84,9 +87,6 @@
   </url><url>
     <loc>https://andxblack.github.io/publications/2023oloughlin/</loc>
     <lastmod>1970-01-01T10:03:44+09:30</lastmod>
-  </url><url>
-    <loc>https://andxblack.github.io/publications/2023morris/</loc>
-    <lastmod>1970-01-01T10:03:43+09:30</lastmod>
   </url><url>
     <loc>https://andxblack.github.io/publications/2023bourrat/</loc>
     <lastmod>1970-01-01T10:03:43+09:30</lastmod>

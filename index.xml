@@ -6,7 +6,7 @@
     <description>Recent content in Home on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andxblack.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unleashing the benefits of smart grids by overcoming the challenges associated with low-resolution data</title>
@@ -20,6 +20,13 @@
       <link>https://andxblack.github.io/publications/ray_2023/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/publications/ray_2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computation of random time-shift distributions for stochastic population models</title>
+      <link>https://andxblack.github.io/publications/2023morris/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://andxblack.github.io/publications/2023morris/</guid>
       <description></description>
     </item>
     <item>
@@ -125,13 +132,6 @@
       <link>https://andxblack.github.io/publications/2023oloughlin/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:44 +0930</pubDate>
       <guid>https://andxblack.github.io/publications/2023oloughlin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Computation of random time-shift distributions for stochastic population models</title>
-      <link>https://andxblack.github.io/publications/2023morris/</link>
-      <pubDate>Thu, 01 Jan 1970 10:03:43 +0930</pubDate>
-      <guid>https://andxblack.github.io/publications/2023morris/</guid>
       <description></description>
     </item>
     <item>
