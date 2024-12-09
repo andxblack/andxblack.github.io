@@ -5,29 +5,34 @@
     <link>https://andxblack.github.io/tags/blog/</link>
     <description>Recent content in blog on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andxblack.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Australian Data Science Network Conference</title>
       <link>https://andxblack.github.io/blog/adsn_conf/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://andxblack.github.io/blog/adsn_conf/</guid>
       <description>I am on the organising committee for the upcoming Australian Data Science Network 2023 Conference, which will be held in Adelaide, 7-8th of December.</description>
     </item>
+    
     <item>
       <title>What programming language should I learn first (as a maths student)?</title>
       <link>https://andxblack.github.io/blog/programming_languages/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://andxblack.github.io/blog/programming_languages/</guid>
-      <description>This post summarises my answer to a common question I get from mathematics students.&#xA;I&amp;rsquo;m not dogmatic about this; I recommend either R, Julia or Python depending on your project and specialisation. If you’re doing statistics, R is a no-brainer. For machine-learning heavy work, Python is still the standard. For more general numerical computing and simulation, for example Monte Carlo and MCMC (most of what I research day to day) I recommend Julia now because these things need to be fast.</description>
+      <description>This post summarises my answer to a common question I get from mathematics students.
+I&amp;rsquo;m not dogmatic about this; I recommend either R, Julia or Python depending on your project and specialisation. If you’re doing statistics, R is a no-brainer. For machine-learning heavy work, Python is still the standard. For more general numerical computing and simulation, for example Monte Carlo and MCMC (most of what I research day to day) I recommend Julia now because these things need to be fast.</description>
     </item>
+    
     <item>
       <title>Applied Probability at the Rock</title>
       <link>https://andxblack.github.io/blog/rock_conference/</link>
       <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://andxblack.github.io/blog/rock_conference/</guid>
       <description>I created the poster for the upcoming Applied Probability conference being held for Phil Pollett&amp;rsquo;s 60&amp;rsquo;th birthday. Inspired by some of Anders Hoff&amp;rsquo;s work, I tried to capture the layer structure of Uluru using a line tracing algorithm written in Processing, which uses Java behind the scenes. Roughly, it starts with a straight line and then tries to copy this, but with some noise added. After many iterations larger scale patterns start to emerge.</description>
     </item>
+    
   </channel>
 </rss>

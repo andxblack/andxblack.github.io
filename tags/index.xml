@@ -5,43 +5,51 @@
     <link>https://andxblack.github.io/tags/</link>
     <description>Recent content in Tags on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andxblack.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>news</title>
+      <link>https://andxblack.github.io/tags/news/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://andxblack.github.io/tags/news/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blog</title>
       <link>https://andxblack.github.io/tags/blog/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://andxblack.github.io/tags/blog/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>teaching</title>
       <link>https://andxblack.github.io/tags/teaching/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://andxblack.github.io/tags/teaching/</guid>
       <description></description>
     </item>
-    <item>
-      <title>news</title>
-      <link>https://andxblack.github.io/tags/news/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://andxblack.github.io/tags/news/</guid>
-      <description></description>
-    </item>
+    
     <item>
       <title>paper</title>
       <link>https://andxblack.github.io/tags/paper/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://andxblack.github.io/tags/paper/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>conference</title>
       <link>https://andxblack.github.io/tags/conference/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://andxblack.github.io/tags/conference/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
