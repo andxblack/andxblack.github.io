@@ -5,399 +5,309 @@
     <link>https://andxblack.github.io/</link>
     <description>Recent content in Home on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://andxblack.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unleashing the benefits of smart grids by overcoming the challenges associated with low-resolution data</title>
       <link>https://andxblack.github.io/publications/ray_2024a/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/publications/ray_2024a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A synthetic dataset of Danish residential electricity prosumers</title>
       <link>https://andxblack.github.io/publications/ray_2023/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/publications/ray_2023/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Individuality through ecology: Rethinking the evolution of complex life from an externalist perspective</title>
       <link>https://andxblack.github.io/publications/2023bourrat/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2023bourrat/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>An off-lattice discrete model to characterise filamentous yeast colony morphology</title>
       <link>https://andxblack.github.io/publications/2024li/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2024li/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Australian Consortium for Epidemic Forecasting and Analytics (ACEFA)</title>
       <link>https://andxblack.github.io/blog/acefa/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/acefa/</guid>
-      <description>I am a CI in the newly formed Australian consortium for epidemic forecasting and analytics (ACEFA). This is working to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.
-Activities will kick off in 2025.
-New Centre for Excellence to improve responses to epidemic diseases
-https://acefa-hubs.github.io/</description>
+      <description>I am a CI in the newly formed Australian Consortium for Epidemic Forecasting and Analytics (ACEFA). This is working to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.&#xA;Activities will kick off in 2025.&#xA;New Centre for Excellence to improve responses to epidemic diseases&#xA;https://acefa-hubs.github.io/</description>
     </item>
-    
     <item>
       <title>Neural Likelihood Approximation for Integer Valued Time Series Data</title>
       <link>https://andxblack.github.io/publications/2023oloughlin/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2023oloughlin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Computation of random time-shift distributions for stochastic population models</title>
       <link>https://andxblack.github.io/publications/2023morris/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2023morris/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Australian Data Science Network Conference</title>
       <link>https://andxblack.github.io/blog/adsn_conf/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/adsn_conf/</guid>
       <description>I am on the organising committee for the upcoming Australian Data Science Network 2023 Conference, which will be held in Adelaide, 7-8th of December.</description>
     </item>
-    
     <item>
       <title>The effect of bottleneck size on evolution in nested Darwinian populations</title>
       <link>https://andxblack.github.io/publications/2022_nitschke/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2022_nitschke/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Learnings from the Australian First Few X Household Transmission Project for COVID-19</title>
       <link>https://andxblack.github.io/publications/2022marcato/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2022marcato/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>What programming language should I learn first (as a maths student)?</title>
       <link>https://andxblack.github.io/blog/programming_languages/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/programming_languages/</guid>
-      <description>This post summarises my answer to a common question I get from mathematics students.
-I&amp;rsquo;m not dogmatic about this; I recommend either R, Julia or Python depending on your project and specialisation. If you’re doing statistics, R is a no-brainer. For machine-learning heavy work, Python is still the standard. For more general numerical computing and simulation, for example Monte Carlo and MCMC (most of what I research day to day) I recommend Julia now because these things need to be fast.</description>
+      <description>This post summarises my answer to a common question I get from mathematics students.&#xA;I&amp;rsquo;m not dogmatic about this; I recommend either R, Julia or Python depending on your project and specialisation. If you’re doing statistics, R is a no-brainer. For machine-learning heavy work, Python is still the standard. For more general numerical computing and simulation, for example Monte Carlo and MCMC (most of what I research day to day) I recommend Julia now because these things need to be fast.</description>
     </item>
-    
     <item>
       <title>Advanced Stochastic Modelling and Monte Carlo Methods</title>
       <link>https://andxblack.github.io/blog/topica_2021/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/topica_2021/</guid>
       <description>In Semester 1 this year, I will again be teaching an honours course which I have roughly titled: Advanced Stochastic Modelling and Monte Carlo Methods. For those of you considering it, this post gives an outline of the topics I intend to cover this year. Due to the restrictions on in-person teaching and workload constraints, all honours courses will be run as reading courses this year. This means there will be no lectures and instead a single weekly workshop.</description>
     </item>
-    
     <item>
       <title>Go8 Roadmap to Recovery</title>
       <link>https://andxblack.github.io/blog/go8_roadmap/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/go8_roadmap/</guid>
       <description>I contributed some thoughts for the Go8 Roadmap to Recovery that was recently released. The University also has a bit of press on it here.</description>
     </item>
-    
     <item>
       <title>Doherty coronavirus modelling work</title>
       <link>https://andxblack.github.io/blog/corona1/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/corona1/</guid>
-      <description>Two pieces of work I have contributed to on the Australian response to COVID-19 have been published on the Doherty Institute website.
-Update: The first piece of work on the scenario modelling has now been published in Emerging Infectious Diseases.
-Update 01-02-22: The risk analysis work has now been published in Epidemics</description>
+      <description>Two pieces of work I have contributed to on the Australian response to COVID-19 have been published on the Doherty Institute website.&#xA;Update: The first piece of work on the scenario modelling has now been published in Emerging Infectious Diseases.&#xA;Update 01-02-22: The risk analysis work has now been published in Epidemics</description>
     </item>
-    
     <item>
       <title>The Conversation: How to flatten the curve of coronavirus, a mathematician explains</title>
       <link>https://andxblack.github.io/blog/convo/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/convo/</guid>
       <description>An article in the Conversation by myself, Dennis Liu and Lewis Mitchell. How to flatten the curve of coronavirus, a mathematician explains.</description>
     </item>
-    
     <item>
       <title>New paper published: Ecological scaffolding and the evolution of individuality</title>
       <link>https://andxblack.github.io/blog/eco_evo_paper/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/eco_evo_paper/</guid>
       <description>Our paper on Ecological scaffolding and the evolution of individuality has been published online in Nature Ecology and Evolution. There is an accompanying news and views article as well as an interactive visualisation of the first model using Observable.js.</description>
     </item>
-    
     <item>
       <title>Pursuit: What maths can tell us about the spread of the new coronavirus</title>
       <link>https://andxblack.github.io/blog/pursuit/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/pursuit/</guid>
       <description>We have a short piece out in Pursuit about the coronavirus. What maths can tell us about the spread of the new coronavirus.</description>
     </item>
-    
     <item>
       <title>Annual Meeting of the Australian Mathematical Society</title>
       <link>https://andxblack.github.io/blog/aust_ms/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/aust_ms/</guid>
       <description>Another poster I have created for AustMS this year using Processing.</description>
     </item>
-    
     <item>
       <title>Applied Probability at the Rock</title>
       <link>https://andxblack.github.io/blog/rock_conference/</link>
       <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/rock_conference/</guid>
       <description>I created the poster for the upcoming Applied Probability conference being held for Phil Pollett&amp;rsquo;s 60&amp;rsquo;th birthday. Inspired by some of Anders Hoff&amp;rsquo;s work, I tried to capture the layer structure of Uluru using a line tracing algorithm written in Processing, which uses Java behind the scenes. Roughly, it starts with a straight line and then tries to copy this, but with some noise added. After many iterations larger scale patterns start to emerge.</description>
     </item>
-    
     <item>
       <title>Australia New Zealand Applied Probability Workshop 2015</title>
       <link>https://andxblack.github.io/blog/barossa/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/barossa/</guid>
       <description>I am a co-organiser of the Australia New Zealand Applied Probability Workshop to be held in the Barossa this April.</description>
     </item>
-    
     <item>
       <title>Efficient estimation of epidemic final size probabilities</title>
       <link>https://andxblack.github.io/publications/2025fairbrother/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:45 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2025fairbrother/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets.</title>
       <link>https://andxblack.github.io/publications/2025morris/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:45 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2025morris/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Rapid assessment of the risk of SARS-CoV-2 importation: Case study and lessons learned</title>
       <link>https://andxblack.github.io/publications/2020shearer/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:42 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2020shearer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Coronavirus Disease Model to Inform Transmission Reducing Measures and Health System Preparedness, Australia</title>
       <link>https://andxblack.github.io/publications/2020moss/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:40 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/2020moss/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ecological scaffolding and the evolution of individuality</title>
       <link>https://andxblack.github.io/publications/black_ecoscaff/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:40 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black_ecoscaff/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Influencing public health policy with data-informed mathematical models of infectious diseases: Recent developments and new challenges</title>
       <link>https://andxblack.github.io/publications/alahmadi/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:40 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/alahmadi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bayesian model discrimination for partially-observed epidemic models</title>
       <link>https://andxblack.github.io/publications/walker2019/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:39 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/walker2019/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Importance sampling for partially observed temporal epidemic models</title>
       <link>https://andxblack.github.io/publications/black2018/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:39 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2018/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The distribution of the time taken for an epidemic to spread between two communities</title>
       <link>https://andxblack.github.io/publications/yan2018/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:38 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/yan2018/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Characterising Pandemic Severity and Transmissibility from Data Collected during First Few Hundred Studies</title>
       <link>https://andxblack.github.io/publications/black2017/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:37 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2017/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Inference of epidemiological parameters from household stratified data</title>
       <link>https://andxblack.github.io/publications/walker2017/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:37 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/walker2017/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Choice of antiviral allocation scheme for pandemic influenza depends on strain transmissibility, delivery delay and stockpile size</title>
       <link>https://andxblack.github.io/publications/lydeamore2016/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:36 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/lydeamore2016/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Computation of epidemic final size distributions</title>
       <link>https://andxblack.github.io/publications/black2015/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:35 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2015/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Contact tracing and antiviral prophylaxis in the early stages of a pandemic: The probability of a major outbreak</title>
       <link>https://andxblack.github.io/publications/ross2014/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:34 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/ross2014/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The effect of clumped population structure on the variability of spreading dynamics</title>
       <link>https://andxblack.github.io/publications/black2014a/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:34 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2014a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Epidemiological consequences of household-based antiviral prophylaxis for pandemic influenza</title>
       <link>https://andxblack.github.io/publications/black2013a/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:33 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2013a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Estimating a Markovian epidemic model using household serial interval data from the early stages of an epidemic</title>
       <link>https://andxblack.github.io/publications/black2013b/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:33 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2013b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mixing times in evolutionary game dynamics</title>
       <link>https://andxblack.github.io/publications/black2012b/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:32 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2012b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stochastic formulation of ecological models and their applications</title>
       <link>https://andxblack.github.io/publications/black2012a/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:32 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2012a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>WKB calculation of an epidemic outbreak distribution</title>
       <link>https://andxblack.github.io/publications/black2011/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:31 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2011/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stochastic amplification in an epidemic model with seasonal forcing</title>
       <link>https://andxblack.github.io/publications/black2010b/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:30 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2010b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stochasticity in staged models of epidemics: quantifying the dynamics of whooping cough</title>
       <link>https://andxblack.github.io/publications/black2010/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:30 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2010/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Stochastic fluctuations in the susceptible-infected-recovered model with distributed infectious periods</title>
       <link>https://andxblack.github.io/publications/black2009/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:29 +0930</pubDate>
-      
       <guid>https://andxblack.github.io/publications/black2009/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -5,65 +5,50 @@
     <link>https://andxblack.github.io/tags/news/</link>
     <description>Recent content in news on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://andxblack.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://andxblack.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Australian Consortium for Epidemic Forecasting and Analytics (ACEFA)</title>
       <link>https://andxblack.github.io/blog/acefa/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/acefa/</guid>
-      <description>I am a CI in the newly formed Australian consortium for epidemic forecasting and analytics (ACEFA). This is working to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.
-Activities will kick off in 2025.
-New Centre for Excellence to improve responses to epidemic diseases
-https://acefa-hubs.github.io/</description>
+      <description>I am a CI in the newly formed Australian Consortium for Epidemic Forecasting and Analytics (ACEFA). This is working to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.&#xA;Activities will kick off in 2025.&#xA;New Centre for Excellence to improve responses to epidemic diseases&#xA;https://acefa-hubs.github.io/</description>
     </item>
-    
     <item>
       <title>Go8 Roadmap to Recovery</title>
       <link>https://andxblack.github.io/blog/go8_roadmap/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/go8_roadmap/</guid>
       <description>I contributed some thoughts for the Go8 Roadmap to Recovery that was recently released. The University also has a bit of press on it here.</description>
     </item>
-    
     <item>
       <title>Doherty coronavirus modelling work</title>
       <link>https://andxblack.github.io/blog/corona1/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/corona1/</guid>
-      <description>Two pieces of work I have contributed to on the Australian response to COVID-19 have been published on the Doherty Institute website.
-Update: The first piece of work on the scenario modelling has now been published in Emerging Infectious Diseases.
-Update 01-02-22: The risk analysis work has now been published in Epidemics</description>
+      <description>Two pieces of work I have contributed to on the Australian response to COVID-19 have been published on the Doherty Institute website.&#xA;Update: The first piece of work on the scenario modelling has now been published in Emerging Infectious Diseases.&#xA;Update 01-02-22: The risk analysis work has now been published in Epidemics</description>
     </item>
-    
     <item>
       <title>The Conversation: How to flatten the curve of coronavirus, a mathematician explains</title>
       <link>https://andxblack.github.io/blog/convo/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/convo/</guid>
       <description>An article in the Conversation by myself, Dennis Liu and Lewis Mitchell. How to flatten the curve of coronavirus, a mathematician explains.</description>
     </item>
-    
     <item>
       <title>New paper published: Ecological scaffolding and the evolution of individuality</title>
       <link>https://andxblack.github.io/blog/eco_evo_paper/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/eco_evo_paper/</guid>
       <description>Our paper on Ecological scaffolding and the evolution of individuality has been published online in Nature Ecology and Evolution. There is an accompanying news and views article as well as an interactive visualisation of the first model using Observable.js.</description>
     </item>
-    
     <item>
       <title>Pursuit: What maths can tell us about the spread of the new coronavirus</title>
       <link>https://andxblack.github.io/blog/pursuit/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://andxblack.github.io/blog/pursuit/</guid>
       <description>We have a short piece out in Pursuit about the coronavirus. What maths can tell us about the spread of the new coronavirus.</description>
     </item>
-    
   </channel>
 </rss>
