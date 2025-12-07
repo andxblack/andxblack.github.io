@@ -6,7 +6,7 @@
     <description>Recent content in Publications on Andrew Black</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andxblack.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unleashing the benefits of smart grids by overcoming the challenges associated with low-resolution data</title>
@@ -20,6 +20,13 @@
       <link>https://andxblack.github.io/publications/ray_2023/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/publications/ray_2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets</title>
+      <link>https://andxblack.github.io/publications/2025morris/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://andxblack.github.io/publications/2025morris/</guid>
       <description></description>
     </item>
     <item>
@@ -65,17 +72,31 @@
       <description></description>
     </item>
     <item>
-      <title>Efficient estimation of epidemic final size probabilities</title>
-      <link>https://andxblack.github.io/publications/2025fairbrother/</link>
+      <title>Agent-based modelling and time series inference of filamentous yeast colonies</title>
+      <link>https://andxblack.github.io/publications/2025lia/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:45 +0930</pubDate>
-      <guid>https://andxblack.github.io/publications/2025fairbrother/</guid>
+      <guid>https://andxblack.github.io/publications/2025lia/</guid>
       <description></description>
     </item>
     <item>
-      <title>Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets.</title>
-      <link>https://andxblack.github.io/publications/2025morris/</link>
+      <title>Gaussian approximations for fast Bayesian inference of partially observed branching processes with applications to epidemiology</title>
+      <link>https://andxblack.github.io/publications/2025angus/</link>
       <pubDate>Thu, 01 Jan 1970 10:03:45 +0930</pubDate>
-      <guid>https://andxblack.github.io/publications/2025morris/</guid>
+      <guid>https://andxblack.github.io/publications/2025angus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modelling the emergence of spiral colony morphology in the yeast Magnusiomyces magnusii</title>
+      <link>https://andxblack.github.io/publications/2025lib/</link>
+      <pubDate>Thu, 01 Jan 1970 10:03:45 +0930</pubDate>
+      <guid>https://andxblack.github.io/publications/2025lib/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Efficient estimation of epidemic final size probabilities</title>
+      <link>https://andxblack.github.io/publications/2025fairbrother/</link>
+      <pubDate>Thu, 01 Jan 1970 10:03:44 +0930</pubDate>
+      <guid>https://andxblack.github.io/publications/2025fairbrother/</guid>
       <description></description>
     </item>
     <item>
