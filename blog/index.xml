@@ -4,7 +4,7 @@
     <title>Blog / News on Andrew Black</title>
     <link>https://andxblack.github.io/blog/</link>
     <description>Recent content in Blog / News on Andrew Black</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andxblack.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -13,84 +13,84 @@
       <link>https://andxblack.github.io/blog/acefa/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/acefa/</guid>
-      <description>I am a CI in the newly formed Australian Consortium for Epidemic Forecasting and Analytics (ACEFA). This is working to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.&#xA;Activities will kick off in 2025.&#xA;New Centre for Excellence to improve responses to epidemic diseases&#xA;https://acefa-hubs.github.io/</description>
+      <description>&lt;p&gt;I am a CI in the newly formed Australian Consortium for Epidemic Forecasting and Analytics (ACEFA). This is working to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.&lt;/p&gt;&#xA;&lt;p&gt;Activities will kick off in 2025.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mspgh.unimelb.edu.au/news-and-events/2024/new-centre-for-excellence&#34;&gt;New Centre for Excellence to improve responses to epidemic diseases&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://acefa-hubs.github.io/&#34;&gt;https://acefa-hubs.github.io/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Australian Data Science Network Conference</title>
       <link>https://andxblack.github.io/blog/adsn_conf/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/adsn_conf/</guid>
-      <description>I am on the organising committee for the upcoming Australian Data Science Network 2023 Conference, which will be held in Adelaide, 7-8th of December.</description>
+      <description>&lt;p&gt;I am on the organising committee for the upcoming &lt;a href=&#34;https://www.australiandatascience.net/event/2023-adsn-conference/&#34;&gt;Australian Data Science Network 2023 Conference&lt;/a&gt;, which will be held in Adelaide, 7-8th of December.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What programming language should I learn first (as a maths student)?</title>
       <link>https://andxblack.github.io/blog/programming_languages/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/programming_languages/</guid>
-      <description>This post summarises my answer to a common question I get from mathematics students.&#xA;I&amp;rsquo;m not dogmatic about this; I recommend either R, Julia or Python depending on your project and specialisation. If you’re doing statistics, R is a no-brainer. For machine-learning heavy work, Python is still the standard. For more general numerical computing and simulation, for example Monte Carlo and MCMC (most of what I research day to day) I recommend Julia now because these things need to be fast.</description>
+      <description>&lt;figure&gt;&#xA;  &lt;img&#xA;    src=&#34;https://andxblack.github.io/images/c64.png&#34;&#xA;    alt=&#34;c64&#34;&#xA;    width=&#34;100%&#34;&#xA;    height=&#34;auto&#34;/&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;This post summarises my answer to a common question I get from mathematics students.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m not dogmatic about this; I recommend either R, Julia or Python depending on your project and specialisation. If you’re doing statistics, R is a no-brainer. For machine-learning heavy work, Python is still the standard. For more general numerical computing and simulation, for example Monte Carlo and MCMC (most of what I research day to day) I recommend Julia now because these things need to be fast. In the past I would have recommended C/C++ for simulations but I now believe Julia is more than good enough and much simpler to get going with.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advanced Stochastic Modelling and Monte Carlo Methods</title>
       <link>https://andxblack.github.io/blog/topica_2021/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/topica_2021/</guid>
-      <description>In Semester 1 this year, I will again be teaching an honours course which I have roughly titled: Advanced Stochastic Modelling and Monte Carlo Methods. For those of you considering it, this post gives an outline of the topics I intend to cover this year. Due to the restrictions on in-person teaching and workload constraints, all honours courses will be run as reading courses this year. This means there will be no lectures and instead a single weekly workshop.</description>
+      <description>&lt;figure&gt;&#xA;  &lt;img&#xA;    src=&#34;https://andxblack.github.io/images/balls_in_box2.jpg&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;&#34;&#xA;    height=&#34;auto&#34;/&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;In Semester 1 this year, I will again be teaching an honours course which I have roughly titled: Advanced Stochastic Modelling and Monte Carlo Methods.&#xA;For those of you considering it, this post gives an outline of the topics I intend to cover this year. Due to the restrictions on in-person teaching and workload constraints, all honours courses will be run as reading courses this year. This means there will be no lectures and instead a single weekly workshop.  The picture above is created using a technique called path tracing that we will cover and code in week 3.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Go8 Roadmap to Recovery</title>
       <link>https://andxblack.github.io/blog/go8_roadmap/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/go8_roadmap/</guid>
-      <description>I contributed some thoughts for the Go8 Roadmap to Recovery that was recently released. The University also has a bit of press on it here.</description>
+      <description>&lt;p&gt;I contributed some thoughts for the &lt;a href=&#34;https://go8.edu.au/research/roadmap-to-recovery&#34;&gt;Go8 Roadmap to Recovery&lt;/a&gt; that was recently released.&#xA;The University also has a bit of press on it &lt;a href=&#34;https://www.adelaide.edu.au/research/connect/covid-19-research/roadmap-to-recovery&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doherty coronavirus modelling work</title>
       <link>https://andxblack.github.io/blog/corona1/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/corona1/</guid>
-      <description>Two pieces of work I have contributed to on the Australian response to COVID-19 have been published on the Doherty Institute website.&#xA;Update: The first piece of work on the scenario modelling has now been published in Emerging Infectious Diseases.&#xA;Update 01-02-22: The risk analysis work has now been published in Epidemics</description>
+      <description>&lt;p&gt;Two pieces of work I have contributed to on the Australian response to COVID-19 have been published on the &lt;a href=&#34;https://www.doherty.edu.au/news-events/news/covid-19-modelling-papers&#34;&gt;Doherty Institute website&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Update: The first piece of work on the scenario modelling has now been published in &lt;a href=&#34;https://wwwnc.cdc.gov/eid/article/26/12/20-2530_article&#34;&gt;Emerging Infectious Diseases&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Update 01-02-22: The risk analysis work has now been published in &lt;a href=&#34;https://doi.org/10.1016/j.epidem.2022.100549&#34;&gt;Epidemics&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Conversation: How to flatten the curve of coronavirus, a mathematician explains</title>
       <link>https://andxblack.github.io/blog/convo/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/convo/</guid>
-      <description>An article in the Conversation by myself, Dennis Liu and Lewis Mitchell. How to flatten the curve of coronavirus, a mathematician explains.</description>
+      <description>&lt;p&gt;An article in the Conversation by myself, Dennis Liu and Lewis Mitchell. &lt;a href=&#34;https://theconversation.com/how-to-flatten-the-curve-of-coronavirus-a-mathematician-explains-133514&#34;&gt;How to flatten the curve of coronavirus, a mathematician explains.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New paper published: Ecological scaffolding and the evolution of individuality</title>
       <link>https://andxblack.github.io/blog/eco_evo_paper/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/eco_evo_paper/</guid>
-      <description>Our paper on Ecological scaffolding and the evolution of individuality has been published online in Nature Ecology and Evolution. There is an accompanying news and views article as well as an interactive visualisation of the first model using Observable.js.</description>
+      <description>&lt;p&gt;Our paper on &lt;a href=&#34;https://dx.doi.org/10.1038/s41559-019-1086-9&#34;&gt;Ecological scaffolding and the evolution of individuality&lt;/a&gt; has been published online in Nature Ecology and Evolution.&#xA;There is an accompanying &lt;a href=&#34;https://www.nature.com/articles/s41559-020-1116-7&#34;&gt;news and views article&lt;/a&gt; as well as an &lt;a href=&#34;https://observablehq.com/@andxblack/nested-darwinian-populations&#34;&gt;interactive visualisation&lt;/a&gt; of the first model using Observable.js.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pursuit: What maths can tell us about the spread of the new coronavirus</title>
       <link>https://andxblack.github.io/blog/pursuit/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/pursuit/</guid>
-      <description>We have a short piece out in Pursuit about the coronavirus. What maths can tell us about the spread of the new coronavirus.</description>
+      <description>&lt;p&gt;We have a short piece out in Pursuit about the coronavirus. &lt;a href=&#34;https://pursuit.unimelb.edu.au/articles/what-maths-can-tell-us-about-the-spread-of-the-new-coronavirus&#34;&gt;What maths can tell us about the spread of the new coronavirus&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Annual Meeting of the Australian Mathematical Society</title>
       <link>https://andxblack.github.io/blog/aust_ms/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/aust_ms/</guid>
-      <description>Another poster I have created for AustMS this year using Processing.</description>
+      <description>&lt;figure&gt;&#xA;  &lt;img&#xA;    src=&#34;https://andxblack.github.io/images/austms_poster_web.jpg&#34;&#xA;    alt=&#34;austms2018 poster&#34;&#xA;    width=&#34;&#34;&#xA;    height=&#34;auto&#34;/&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;Another poster I have created for &lt;a href=&#34;http://maths.adelaide.edu.au/austms2018/&#34;&gt;AustMS this year&lt;/a&gt; using &lt;a href=&#34;https://processing.org/&#34;&gt;Processing&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Applied Probability at the Rock</title>
       <link>https://andxblack.github.io/blog/rock_conference/</link>
       <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/rock_conference/</guid>
-      <description>I created the poster for the upcoming Applied Probability conference being held for Phil Pollett&amp;rsquo;s 60&amp;rsquo;th birthday. Inspired by some of Anders Hoff&amp;rsquo;s work, I tried to capture the layer structure of Uluru using a line tracing algorithm written in Processing, which uses Java behind the scenes. Roughly, it starts with a straight line and then tries to copy this, but with some noise added. After many iterations larger scale patterns start to emerge.</description>
+      <description>&lt;figure&gt;&#xA;  &lt;img&#xA;    src=&#34;https://andxblack.github.io/images/Rock_poster.jpg&#34;&#xA;    alt=&#34;applied probability at the rock&#34;&#xA;    width=&#34;&#34;&#xA;    height=&#34;auto&#34;/&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;I created the poster for the upcoming Applied Probability conference being held for Phil Pollett&amp;rsquo;s 60&amp;rsquo;th birthday. Inspired by some of &lt;a href=&#34;https://inconvergent.net/generative/linetrace/&#34;&gt;Anders Hoff&amp;rsquo;s work&lt;/a&gt;, I tried to capture the layer structure of Uluru using a line tracing algorithm written in &lt;a href=&#34;https://processing.org/&#34;&gt;Processing&lt;/a&gt;, which uses Java behind the scenes. Roughly, it starts with a straight line and then tries to copy this, but with some noise added. After many iterations larger scale patterns start to emerge.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Australia New Zealand Applied Probability Workshop 2015</title>
       <link>https://andxblack.github.io/blog/barossa/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/barossa/</guid>
-      <description>I am a co-organiser of the Australia New Zealand Applied Probability Workshop to be held in the Barossa this April.</description>
+      <description>&lt;figure&gt;&#xA;  &lt;img&#xA;    src=&#34;https://andxblack.github.io/images/barossa.jpg&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;&#34;&#xA;    height=&#34;auto&#34;/&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;I am a co-organiser of the &lt;a href=&#34;http://maths.adelaide.edu.au/ANZAPW15/&#34;&gt;Australia New Zealand Applied Probability Workshop&lt;/a&gt; to be held in the Barossa this April.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

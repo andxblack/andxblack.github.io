@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Andrew Black</title>
+    <title>Blog on Andrew Black</title>
     <link>https://andxblack.github.io/tags/blog/</link>
-    <description>Recent content in blog on Andrew Black</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Blog on Andrew Black</description>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andxblack.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -13,21 +13,21 @@
       <link>https://andxblack.github.io/blog/adsn_conf/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/adsn_conf/</guid>
-      <description>I am on the organising committee for the upcoming Australian Data Science Network 2023 Conference, which will be held in Adelaide, 7-8th of December.</description>
+      <description>&lt;p&gt;I am on the organising committee for the upcoming &lt;a href=&#34;https://www.australiandatascience.net/event/2023-adsn-conference/&#34;&gt;Australian Data Science Network 2023 Conference&lt;/a&gt;, which will be held in Adelaide, 7-8th of December.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What programming language should I learn first (as a maths student)?</title>
       <link>https://andxblack.github.io/blog/programming_languages/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/programming_languages/</guid>
-      <description>This post summarises my answer to a common question I get from mathematics students.&#xA;I&amp;rsquo;m not dogmatic about this; I recommend either R, Julia or Python depending on your project and specialisation. If you’re doing statistics, R is a no-brainer. For machine-learning heavy work, Python is still the standard. For more general numerical computing and simulation, for example Monte Carlo and MCMC (most of what I research day to day) I recommend Julia now because these things need to be fast.</description>
+      <description>&lt;figure&gt;&#xA;  &lt;img&#xA;    src=&#34;https://andxblack.github.io/images/c64.png&#34;&#xA;    alt=&#34;c64&#34;&#xA;    width=&#34;100%&#34;&#xA;    height=&#34;auto&#34;/&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;This post summarises my answer to a common question I get from mathematics students.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m not dogmatic about this; I recommend either R, Julia or Python depending on your project and specialisation. If you’re doing statistics, R is a no-brainer. For machine-learning heavy work, Python is still the standard. For more general numerical computing and simulation, for example Monte Carlo and MCMC (most of what I research day to day) I recommend Julia now because these things need to be fast. In the past I would have recommended C/C++ for simulations but I now believe Julia is more than good enough and much simpler to get going with.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Applied Probability at the Rock</title>
       <link>https://andxblack.github.io/blog/rock_conference/</link>
       <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/rock_conference/</guid>
-      <description>I created the poster for the upcoming Applied Probability conference being held for Phil Pollett&amp;rsquo;s 60&amp;rsquo;th birthday. Inspired by some of Anders Hoff&amp;rsquo;s work, I tried to capture the layer structure of Uluru using a line tracing algorithm written in Processing, which uses Java behind the scenes. Roughly, it starts with a straight line and then tries to copy this, but with some noise added. After many iterations larger scale patterns start to emerge.</description>
+      <description>&lt;figure&gt;&#xA;  &lt;img&#xA;    src=&#34;https://andxblack.github.io/images/Rock_poster.jpg&#34;&#xA;    alt=&#34;applied probability at the rock&#34;&#xA;    width=&#34;&#34;&#xA;    height=&#34;auto&#34;/&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;I created the poster for the upcoming Applied Probability conference being held for Phil Pollett&amp;rsquo;s 60&amp;rsquo;th birthday. Inspired by some of &lt;a href=&#34;https://inconvergent.net/generative/linetrace/&#34;&gt;Anders Hoff&amp;rsquo;s work&lt;/a&gt;, I tried to capture the layer structure of Uluru using a line tracing algorithm written in &lt;a href=&#34;https://processing.org/&#34;&gt;Processing&lt;/a&gt;, which uses Java behind the scenes. Roughly, it starts with a straight line and then tries to copy this, but with some noise added. After many iterations larger scale patterns start to emerge.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>teaching on Andrew Black</title>
+    <title>Teaching on Andrew Black</title>
     <link>https://andxblack.github.io/tags/teaching/</link>
-    <description>Recent content in teaching on Andrew Black</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Teaching on Andrew Black</description>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andxblack.github.io/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://andxblack.github.io/blog/topica_2021/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://andxblack.github.io/blog/topica_2021/</guid>
-      <description>In Semester 1 this year, I will again be teaching an honours course which I have roughly titled: Advanced Stochastic Modelling and Monte Carlo Methods. For those of you considering it, this post gives an outline of the topics I intend to cover this year. Due to the restrictions on in-person teaching and workload constraints, all honours courses will be run as reading courses this year. This means there will be no lectures and instead a single weekly workshop.</description>
+      <description>&lt;figure&gt;&#xA;  &lt;img&#xA;    src=&#34;https://andxblack.github.io/images/balls_in_box2.jpg&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;&#34;&#xA;    height=&#34;auto&#34;/&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;In Semester 1 this year, I will again be teaching an honours course which I have roughly titled: Advanced Stochastic Modelling and Monte Carlo Methods.&#xA;For those of you considering it, this post gives an outline of the topics I intend to cover this year. Due to the restrictions on in-person teaching and workload constraints, all honours courses will be run as reading courses this year. This means there will be no lectures and instead a single weekly workshop.  The picture above is created using a technique called path tracing that we will cover and code in week 3.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
