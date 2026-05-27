@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Paper on Andrew Black</title>
-    <link>https://andxblack.github.io/tags/paper/</link>
-    <description>Recent content in Paper on Andrew Black</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andxblack.github.io/tags/paper/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>New paper published: Ecological scaffolding and the evolution of individuality</title>
-      <link>https://andxblack.github.io/blog/eco_evo_paper/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://andxblack.github.io/blog/eco_evo_paper/</guid>
-      <description>&lt;p&gt;Our paper on &lt;a href=&#34;https://dx.doi.org/10.1038/s41559-019-1086-9&#34;&gt;Ecological scaffolding and the evolution of individuality&lt;/a&gt; has been published online in Nature Ecology and Evolution.&#xA;There is an accompanying &lt;a href=&#34;https://www.nature.com/articles/s41559-020-1116-7&#34;&gt;news and views article&lt;/a&gt; as well as an &lt;a href=&#34;https://observablehq.com/@andxblack/nested-darwinian-populations&#34;&gt;interactive visualisation&lt;/a&gt; of the first model using Observable.js.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Paper on Andrew Black</title>
+		<link>https://andxblack.github.io/tags/paper/</link>
+		<description>Recent content in Paper on Andrew Black</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://andxblack.github.io/tags/paper/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>New paper published: Ecological scaffolding and the evolution of individuality</title>
+				<link>https://andxblack.github.io/blog/eco_evo_paper/</link>
+				<pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+				<guid>https://andxblack.github.io/blog/eco_evo_paper/</guid>
+				<description>&lt;p&gt;Our paper on &lt;a href=&#34;https://dx.doi.org/10.1038/s41559-019-1086-9&#34;&gt;Ecological scaffolding and the evolution of individuality&lt;/a&gt; has been published online in Nature Ecology and Evolution.&#xA;There is an accompanying &lt;a href=&#34;https://www.nature.com/articles/s41559-020-1116-7&#34;&gt;news and views article&lt;/a&gt; as well as an &lt;a href=&#34;https://observablehq.com/@andxblack/nested-darwinian-populations&#34;&gt;interactive visualisation&lt;/a&gt; of the first model using Observable.js.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

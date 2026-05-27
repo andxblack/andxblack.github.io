@@ -1,54 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>News on Andrew Black</title>
-    <link>https://andxblack.github.io/tags/news/</link>
-    <description>Recent content in News on Andrew Black</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andxblack.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Australian Consortium for Epidemic Forecasting and Analytics (ACEFA)</title>
-      <link>https://andxblack.github.io/blog/acefa/</link>
-      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://andxblack.github.io/blog/acefa/</guid>
-      <description>&lt;p&gt;I am a CI in the newly formed Australian Consortium for Epidemic Forecasting and Analytics (ACEFA). This is working to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.&lt;/p&gt;&#xA;&lt;p&gt;Activities will kick off in 2025.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mspgh.unimelb.edu.au/news-and-events/2024/new-centre-for-excellence&#34;&gt;New Centre for Excellence to improve responses to epidemic diseases&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://acefa-hubs.github.io/&#34;&gt;https://acefa-hubs.github.io/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Go8 Roadmap to Recovery</title>
-      <link>https://andxblack.github.io/blog/go8_roadmap/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://andxblack.github.io/blog/go8_roadmap/</guid>
-      <description>&lt;p&gt;I contributed some thoughts for the &lt;a href=&#34;https://go8.edu.au/research/roadmap-to-recovery&#34;&gt;Go8 Roadmap to Recovery&lt;/a&gt; that was recently released.&#xA;The University also has a bit of press on it &lt;a href=&#34;https://www.adelaide.edu.au/research/connect/covid-19-research/roadmap-to-recovery&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Doherty coronavirus modelling work</title>
-      <link>https://andxblack.github.io/blog/corona1/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://andxblack.github.io/blog/corona1/</guid>
-      <description>&lt;p&gt;Two pieces of work I have contributed to on the Australian response to COVID-19 have been published on the &lt;a href=&#34;https://www.doherty.edu.au/news-events/news/covid-19-modelling-papers&#34;&gt;Doherty Institute website&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Update: The first piece of work on the scenario modelling has now been published in &lt;a href=&#34;https://wwwnc.cdc.gov/eid/article/26/12/20-2530_article&#34;&gt;Emerging Infectious Diseases&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Update 01-02-22: The risk analysis work has now been published in &lt;a href=&#34;https://doi.org/10.1016/j.epidem.2022.100549&#34;&gt;Epidemics&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Conversation: How to flatten the curve of coronavirus, a mathematician explains</title>
-      <link>https://andxblack.github.io/blog/convo/</link>
-      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://andxblack.github.io/blog/convo/</guid>
-      <description>&lt;p&gt;An article in the Conversation by myself, Dennis Liu and Lewis Mitchell. &lt;a href=&#34;https://theconversation.com/how-to-flatten-the-curve-of-coronavirus-a-mathematician-explains-133514&#34;&gt;How to flatten the curve of coronavirus, a mathematician explains.&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New paper published: Ecological scaffolding and the evolution of individuality</title>
-      <link>https://andxblack.github.io/blog/eco_evo_paper/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://andxblack.github.io/blog/eco_evo_paper/</guid>
-      <description>&lt;p&gt;Our paper on &lt;a href=&#34;https://dx.doi.org/10.1038/s41559-019-1086-9&#34;&gt;Ecological scaffolding and the evolution of individuality&lt;/a&gt; has been published online in Nature Ecology and Evolution.&#xA;There is an accompanying &lt;a href=&#34;https://www.nature.com/articles/s41559-020-1116-7&#34;&gt;news and views article&lt;/a&gt; as well as an &lt;a href=&#34;https://observablehq.com/@andxblack/nested-darwinian-populations&#34;&gt;interactive visualisation&lt;/a&gt; of the first model using Observable.js.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pursuit: What maths can tell us about the spread of the new coronavirus</title>
-      <link>https://andxblack.github.io/blog/pursuit/</link>
-      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://andxblack.github.io/blog/pursuit/</guid>
-      <description>&lt;p&gt;We have a short piece out in Pursuit about the coronavirus. &lt;a href=&#34;https://pursuit.unimelb.edu.au/articles/what-maths-can-tell-us-about-the-spread-of-the-new-coronavirus&#34;&gt;What maths can tell us about the spread of the new coronavirus&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>News on Andrew Black</title>
+		<link>https://andxblack.github.io/tags/news/</link>
+		<description>Recent content in News on Andrew Black</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://andxblack.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>New course: Mathematical Biology</title>
+				<link>https://andxblack.github.io/blog/math_bio_2026/</link>
+				<pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>https://andxblack.github.io/blog/math_bio_2026/</guid>
+				<description>&lt;figure&gt;&#xA;  &lt;img&#xA;    src=&#34;https://andxblack.github.io/images/haeckel.jpg&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;&#34;&#xA;    height=&#34;auto&#34;/&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;Together with Sam Jelbart, I have been developing a new course on Mathematical Biology (&lt;a href=&#34;https://adelaide.edu.au/study/courses/mathx-309/&#34;&gt;MATHX309&lt;/a&gt;). The information on the course outline page is currently incorrect, so I have added more information below for students. It will first be taught in semester 2, 2026. These details are not final, but represent our best plan as of the time of writing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This course develops mathematical models for understanding biological systems across a wide range of settings, from populations and chemical reactions through to neurons, spatial processes, and stochastic dynamics. A central goal is to show how relatively simple mathematical structures can generate complex biological behaviour.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Australian Consortium for Epidemic Forecasting and Analytics (ACEFA)</title>
+				<link>https://andxblack.github.io/blog/acefa/</link>
+				<pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+				<guid>https://andxblack.github.io/blog/acefa/</guid>
+				<description>&lt;p&gt;I am a CI in the newly formed Australian Consortium for Epidemic Forecasting and Analytics (ACEFA). This is working to support the timely, effective response to epidemic diseases in Australia through real-time data analytics, modelling, and forecasting.&lt;/p&gt;&#xA;&lt;p&gt;Activities will kick off in 2025.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mspgh.unimelb.edu.au/news-and-events/2024/new-centre-for-excellence&#34;&gt;New Centre for Excellence to improve responses to epidemic diseases&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://acefa-hubs.github.io/&#34;&gt;https://acefa-hubs.github.io/&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Go8 Roadmap to Recovery</title>
+				<link>https://andxblack.github.io/blog/go8_roadmap/</link>
+				<pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+				<guid>https://andxblack.github.io/blog/go8_roadmap/</guid>
+				<description>&lt;p&gt;I contributed some thoughts for the &lt;a href=&#34;https://go8.edu.au/research/roadmap-to-recovery&#34;&gt;Go8 Roadmap to Recovery&lt;/a&gt; that was recently released.&#xA;The University also has a bit of press on it &lt;a href=&#34;https://www.adelaide.edu.au/research/connect/covid-19-research/roadmap-to-recovery&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Doherty coronavirus modelling work</title>
+				<link>https://andxblack.github.io/blog/corona1/</link>
+				<pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+				<guid>https://andxblack.github.io/blog/corona1/</guid>
+				<description>&lt;p&gt;Two pieces of work I have contributed to on the Australian response to COVID-19 have been published on the &lt;a href=&#34;https://www.doherty.edu.au/news-events/news/covid-19-modelling-papers&#34;&gt;Doherty Institute website&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Update: The first piece of work on the scenario modelling has now been published in &lt;a href=&#34;https://wwwnc.cdc.gov/eid/article/26/12/20-2530_article&#34;&gt;Emerging Infectious Diseases&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Update 01-02-22: The risk analysis work has now been published in &lt;a href=&#34;https://doi.org/10.1016/j.epidem.2022.100549&#34;&gt;Epidemics&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Conversation: How to flatten the curve of coronavirus, a mathematician explains</title>
+				<link>https://andxblack.github.io/blog/convo/</link>
+				<pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+				<guid>https://andxblack.github.io/blog/convo/</guid>
+				<description>&lt;p&gt;An article in the Conversation by myself, Dennis Liu and Lewis Mitchell. &lt;a href=&#34;https://theconversation.com/how-to-flatten-the-curve-of-coronavirus-a-mathematician-explains-133514&#34;&gt;How to flatten the curve of coronavirus, a mathematician explains.&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>New paper published: Ecological scaffolding and the evolution of individuality</title>
+				<link>https://andxblack.github.io/blog/eco_evo_paper/</link>
+				<pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+				<guid>https://andxblack.github.io/blog/eco_evo_paper/</guid>
+				<description>&lt;p&gt;Our paper on &lt;a href=&#34;https://dx.doi.org/10.1038/s41559-019-1086-9&#34;&gt;Ecological scaffolding and the evolution of individuality&lt;/a&gt; has been published online in Nature Ecology and Evolution.&#xA;There is an accompanying &lt;a href=&#34;https://www.nature.com/articles/s41559-020-1116-7&#34;&gt;news and views article&lt;/a&gt; as well as an &lt;a href=&#34;https://observablehq.com/@andxblack/nested-darwinian-populations&#34;&gt;interactive visualisation&lt;/a&gt; of the first model using Observable.js.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Pursuit: What maths can tell us about the spread of the new coronavirus</title>
+				<link>https://andxblack.github.io/blog/pursuit/</link>
+				<pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+				<guid>https://andxblack.github.io/blog/pursuit/</guid>
+				<description>&lt;p&gt;We have a short piece out in Pursuit about the coronavirus. &lt;a href=&#34;https://pursuit.unimelb.edu.au/articles/what-maths-can-tell-us-about-the-spread-of-the-new-coronavirus&#34;&gt;What maths can tell us about the spread of the new coronavirus&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
