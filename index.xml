@@ -10,7 +10,7 @@
 		
 		
 		
-			<lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://andxblack.github.io/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -26,6 +26,13 @@
 				<pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
 				<guid>https://andxblack.github.io/publications/ray_2023/</guid>
 				<description></description>
+			</item>
+			<item>
+				<title>PhD Scholarship available</title>
+				<link>https://andxblack.github.io/blog/srt_scholarship/</link>
+				<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://andxblack.github.io/blog/srt_scholarship/</guid>
+				<description>&lt;p&gt;The University has awarded a special round of &lt;a href=&#34;https://adelaide.edu.au/research/research-degrees/research-projects/&#34;&gt;Signature Research Theme&lt;/a&gt; (SRT) scholarships. My project was successful, so I am looking to recruit a student. I have pasted the title and description below. This is rather heavy on buzzwords, which seemed to be required by the Uni, but don&amp;rsquo;t let that put you off. This is a project at the intersection of applied mathematics, machine learning and Bayesian statistics.&lt;/p&gt;&#xA;&lt;p&gt;The main selling point is that this scholarship is open to both domestic and international students. There will not be any other international scholarships offered this year, so this is quite a rare opportunity.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Modelling the emergence of spiral colony morphology in the yeast Magnusiomyces magnusii</title>
