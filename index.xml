@@ -10,7 +10,7 @@
 		
 		
 		
-			<lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://andxblack.github.io/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -25,6 +25,13 @@
 				<link>https://andxblack.github.io/publications/ray_2023/</link>
 				<pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
 				<guid>https://andxblack.github.io/publications/ray_2023/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bayesian inference for household transmission models informed by viral dynamics</title>
+				<link>https://andxblack.github.io/publications/2026_morris/</link>
+				<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://andxblack.github.io/publications/2026_morris/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -54,13 +61,6 @@
 				<pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
 				<guid>https://andxblack.github.io/blog/math_bio_2026/</guid>
 				<description>&lt;figure&gt;&#xA;  &lt;img&#xA;    src=&#34;https://andxblack.github.io/images/haeckel.jpg&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;&#34;&#xA;    height=&#34;auto&#34;/&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;Together with Sam Jelbart, I have been developing a new course on Mathematical Biology (&lt;a href=&#34;https://adelaide.edu.au/study/courses/mathx-309/&#34;&gt;MATHX309&lt;/a&gt;). The information on the course outline page is currently incorrect, so I have added more information below for students. It will first be taught in semester 2, 2026. These details are not final, but represent our best plan as of the time of writing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This course develops mathematical models for understanding biological systems across a wide range of settings, from populations and chemical reactions through to neurons, spatial processes, and stochastic dynamics. A central goal is to show how relatively simple mathematical structures can generate complex biological behaviour.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Bayesian inference for disease transmission models informed by viral dynamics</title>
-				<link>https://andxblack.github.io/publications/2026_morris/</link>
-				<pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://andxblack.github.io/publications/2026_morris/</guid>
-				<description></description>
 			</item>
 			<item>
 				<title>Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets</title>
